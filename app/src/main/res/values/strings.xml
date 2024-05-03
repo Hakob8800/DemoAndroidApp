@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoAndroidApp</string>
+    <string name="text_logo">Calculator</string>
+    <string name="hint_1">Input 1st number</string>
+    <string name="hint_2">Input 2st number</string>
+    <string name="button_plus">plus</string>
+    <string name="button_minus">minus</string>
+    <string name="exit_button">exit</string>
+</resources>
